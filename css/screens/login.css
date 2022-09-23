@@ -33,15 +33,16 @@
   color: rgba(0, 0, 0, 0.5);
 }
 .login-form__input:focus {
-  border-bottom: 1px solid var(--green);
+  border-bottom: 1px solid var(--yellow);
 }
 .login-form__btn {
-  background-color: var(--green);
+  background-color: var(--yellow);
   cursor: pointer;
   margin-top: 30px;
   padding: 20px 0px;
   border-radius: 3px;
   border: none;
+  font-size: 18px;
 }
 .login-form__a {
   text-align: center;
